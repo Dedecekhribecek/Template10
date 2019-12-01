@@ -35,7 +35,7 @@ In this hands-on lab you will create a simple application that will show you how
 
 1. In **VS**, under the **Tools > NuGet Package Manager** menu, click **Package Manager Console**.
     The **Package Manager Console** window will open.
-2. In the **Package Manager Console** window, to install Template10, enter **Install-Package Template10 -Version 2.0.0**
+2. In the **Package Manager Console** window, to install Template10, enter **Install-Package Template10 -Version 2.0.1**
 3. Open the file **App.xaml**:
 
     ```xml
